@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+<FilesMatch ".*\.(zip|json)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>

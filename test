@@ -1,0 +1,6 @@
+username = doadmin
+password = AVNS_GekJHZQD0RhRY9ZJKMb
+host = db-mysql-blr1-56752-do-user-18084651-0.l.db.ondigitalocean.com
+port = 25060
+database = defaultdb
+sslmode = REQUIRED

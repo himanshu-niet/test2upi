@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="350px" viewBox="0 0 1440 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>zendesk_header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="95.7030093%" y1="56.3609741%" x2="-5.88125%" y2="42.2224121%" id="linearGradient-1">
+            <stop stop-color="#21CE9A" offset="0%"></stop>
+            <stop stop-color="#2EB1BB" offset="25%"></stop>
+            <stop stop-color="#3C91DE" offset="57%"></stop>
+            <stop stop-color="#457EF3" offset="83%"></stop>
+            <stop stop-color="#4877FB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L0,248.707478 L193.183262,339.178268 C210.664419,347.364972 230.556561,350.845467 250.324041,349.176095 L1440,248.707478 L1440,0 L0,0 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="zendesk_header_v1">
+            <g id="Path-4" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                <path d="M0,0 L0,248.707478 L193.183262,339.178268 C210.664419,347.364972 230.556561,350.845467 250.324041,349.176095 L1440,248.707478 L1440,0 L0,0 Z" id="path-2"></path>
+            </g>
+            <g id="Group-6-Clipped">
+                <g>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="path-2"></g>
+                    <g id="Group-6" opacity="0.3" mask="url(#mask-3)">
+                        <g transform="translate(-454.000000, 126.702221)" id="Group">
+                            <g>
+                                <g fill="#EBECF0" fill-rule="nonzero">
+                                    <path d="M751.917203,103.823376 L1083.83441,270.253575 C1099.30446,278.010582 1108.83441,292.346123 1108.83441,307.860137 L1108.83441,640.720536 C1108.83441,656.23455 1099.30446,670.57009 1083.83441,678.327098 L751.917203,844.757297 C736.447149,852.514304 717.387257,852.514304 701.917203,844.757297 L370,678.327098 C354.529946,670.57009 345,656.23455 345,640.720536 L345,307.860137 C345,292.346123 354.529946,278.010582 370,270.253575 L701.917203,103.823376 C717.387257,96.0663683 736.447149,96.0663683 751.917203,103.823376 Z" id="Polygon-Copy-3" style="mix-blend-mode: overlay;" transform="translate(726.917205, 474.290336) rotate(14.000000) translate(-726.917205, -474.290336) "></path>
+                                    <path d="M491.917203,82.1112158 L823.834406,248.541415 C839.30446,256.298422 848.834406,270.633963 848.834406,286.147977 L848.834406,619.008376 C848.834406,634.52239 839.30446,648.857931 823.834406,656.614938 L491.917203,823.045137 C476.447149,830.802144 457.387257,830.802144 441.917203,823.045137 L110,656.614938 C94.529946,648.857931 85,634.52239 85,619.008376 L85,286.147977 C85,270.633963 94.529946,256.298422 110,248.541415 L441.917203,82.1112158 C457.387257,74.3542086 476.447149,74.3542086 491.917203,82.1112158 Z" id="Polygon" style="mix-blend-mode: overlay;" transform="translate(466.917203, 452.578176) rotate(-14.000000) translate(-466.917203, -452.578176) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
